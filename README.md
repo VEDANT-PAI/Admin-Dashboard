@@ -38,8 +38,3 @@
 ├── vite.config.js
 └── package.json
 ```
-
-For any inquiries, please reach out to us via [email or social media links].
-
-## Stay in the Loop
-If you would like to know when we release new resources, you can follow us on X, or you can subscribe to our [newsletter](https://mosaic.com/newsletter/).
