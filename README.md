@@ -12,7 +12,7 @@
 ## Installation
 1. Clone the repository:
    ```bash
-
+https://github.com/VEDANT-PAI/Admin-Dashboard.git
    ```
 2. Install dependencies:
    ```bash
